@@ -1,0 +1,1 @@
+export { questaoService } from './questaoService';

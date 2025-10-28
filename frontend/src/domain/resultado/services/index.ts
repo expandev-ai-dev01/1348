@@ -1,0 +1,1 @@
+export { resultadoService } from './resultadoService';
